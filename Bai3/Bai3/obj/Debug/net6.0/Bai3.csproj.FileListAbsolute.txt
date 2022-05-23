@@ -1,0 +1,15 @@
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\obj\Debug\net6.0\Bai3.csproj.AssemblyReference.cache
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\obj\Debug\net6.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfoInputs.cache
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\obj\Debug\net6.0\Bai3.AssemblyInfo.cs
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\obj\Debug\net6.0\Bai3.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\bin\Debug\net6.0\Bai3.exe
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\bin\Debug\net6.0\Bai3.deps.json
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\bin\Debug\net6.0\Bai3.runtimeconfig.json
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\bin\Debug\net6.0\Bai3.dll
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\bin\Debug\net6.0\Bai3.pdb
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\obj\Debug\net6.0\Bai3.dll
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\obj\Debug\net6.0\refint\Bai3.dll
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\obj\Debug\net6.0\Bai3.pdb
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\obj\Debug\net6.0\Bai3.genruntimeconfig.cache
+C:\Users\Hung\Desktop\baitapOOP\Bai3\Bai3\obj\Debug\net6.0\ref\Bai3.dll
