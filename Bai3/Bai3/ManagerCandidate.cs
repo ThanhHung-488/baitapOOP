@@ -30,19 +30,7 @@ namespace Bai3
                         View();
                         break;
                     case 3:
-                        //if (ManagerCandidate.SoLuongSinhVien() > 0)
-                        //{
-                        //    Console.WriteLine("\n4. Tim kiem sinh vien theo ten.");
-                        //    Console.Write("\nNhap ten de tim kiem: ");
-                        //    string name = Convert.ToString(Console.ReadLine());
-                        //    List<Candidate> searchResult = ManagerCandidate.FindByName(name);
-                        //    ManagerCandidate.(searchResult);
-                        //}
-                        //else
-                        //{
-                        //    Console.WriteLine("\nSanh sach sinh vien trong!");
-                        //}
-                    
+                        Search();
                         break;
                     case 4:
                         break;
@@ -110,6 +98,10 @@ namespace Bai3
             {
                 listCandidate[i].Display();
             }
+        }
+        public void Search()
+        {
+
         }
 
     }

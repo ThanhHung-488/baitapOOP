@@ -43,7 +43,7 @@ namespace Bai3
                                 return "Khu vực 2: được cộng 0,25 điểm ";
                                 break;
                             case 6:
-                                return "Khu vực 3: không được cộng điểm ưu tiên";
+                                return "Khu vực 3: khong duoc cong diem uu tien";
                                 break;
                             default:
                                 Console.WriteLine("Lua chon lai");
