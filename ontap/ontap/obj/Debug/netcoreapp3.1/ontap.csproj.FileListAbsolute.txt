@@ -1,0 +1,14 @@
+E:\HK221\C#\ontap\ontap\bin\Debug\netcoreapp3.1\ontap.exe
+E:\HK221\C#\ontap\ontap\bin\Debug\netcoreapp3.1\ontap.deps.json
+E:\HK221\C#\ontap\ontap\bin\Debug\netcoreapp3.1\ontap.runtimeconfig.json
+E:\HK221\C#\ontap\ontap\bin\Debug\netcoreapp3.1\ontap.runtimeconfig.dev.json
+E:\HK221\C#\ontap\ontap\bin\Debug\netcoreapp3.1\ontap.dll
+E:\HK221\C#\ontap\ontap\bin\Debug\netcoreapp3.1\ontap.pdb
+E:\HK221\C#\ontap\ontap\obj\Debug\netcoreapp3.1\ontap.csproj.AssemblyReference.cache
+E:\HK221\C#\ontap\ontap\obj\Debug\netcoreapp3.1\ontap.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK221\C#\ontap\ontap\obj\Debug\netcoreapp3.1\ontap.AssemblyInfoInputs.cache
+E:\HK221\C#\ontap\ontap\obj\Debug\netcoreapp3.1\ontap.AssemblyInfo.cs
+E:\HK221\C#\ontap\ontap\obj\Debug\netcoreapp3.1\ontap.csproj.CoreCompileInputs.cache
+E:\HK221\C#\ontap\ontap\obj\Debug\netcoreapp3.1\ontap.dll
+E:\HK221\C#\ontap\ontap\obj\Debug\netcoreapp3.1\ontap.pdb
+E:\HK221\C#\ontap\ontap\obj\Debug\netcoreapp3.1\ontap.genruntimeconfig.cache
